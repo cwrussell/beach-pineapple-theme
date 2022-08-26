@@ -1,0 +1,21 @@
+{
+    "name": "beach-pineapple",
+    "displayName": "beach-pineapple",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "beach-pineapple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/beach-pineapple-color-theme.json"
+            }
+        ]
+    }
+}
